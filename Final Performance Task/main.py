@@ -84,11 +84,7 @@ intent = [
          'How do you keep a bagel from getting away?\nPut lox on it.',
          'What do you call a parade of rabbits hopping backwards?\nA receding hare-line.'
          ]
-    ]#,
-    #[
-        #['fuck','shit','hell'],
-        #['How could you say that to me :(','...\nYou son of a b****!\nI\'m your assistant!\nHow could you say that to me!!!']
-    #]
+    ]
 ]
 
 def upload():
